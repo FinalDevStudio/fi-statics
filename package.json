@@ -1,0 +1,39 @@
+{
+  "name": "fi-statics",
+  "title": "Fi Statics",
+  "description": "Static database content manager for Mongoose",
+  "version": "0.0.1",
+  "private": false,
+  "license": "MIT",
+  "author": "Final Development Studio <sorcery@finaldevstudio.com> (http://finaldevstudio.com)",
+  "contributors": [
+    "Santiago G. Marín <santiago@finaldevstudio.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finaldevstudio/fi-statics.git"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --reporter list test/*.js"
+  },
+  "dependencies": {
+    "is_js": "^0.7.4"
+  },
+  "devDependencies": {
+    "mongoose": "*",
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  },
+  "bugs": {
+    "url": "https://github.com/finaldevstudio/fi-statics/issues"
+  },
+  "homepage": "https://github.com/finaldevstudio/fi-statics#readme",
+  "main": "index.js",
+  "keywords": [
+    "database",
+    "mongoose",
+    "manager",
+    "statics",
+    "fi-seed"
+  ]
+}
