@@ -21,9 +21,10 @@
     "walk": "^2.3.9"
   },
   "devDependencies": {
-    "mongoose": "*",
-    "chai": "^3.2.0",
-    "mocha": "^2.2.5"
+    "chai": "^3.4.1",
+    "mocha": "^2.2.5",
+    "mongoose": "^4.3.4",
+    "node-uuid": "^1.4.7"
   },
   "bugs": {
     "url": "https://github.com/finaldevstudio/fi-statics/issues"
