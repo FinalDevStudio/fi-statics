@@ -2,7 +2,7 @@
   "name": "fi-statics",
   "title": "Fi Statics",
   "description": "Static database content manager for Mongoose",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "license": "MIT",
   "author": "Final Development Studio <sorcery@finaldevstudio.com> (http://finaldevstudio.com)",
