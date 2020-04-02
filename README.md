@@ -1,3 +1,7 @@
+---
+### No longer maintained.
+---
+
 # Fi Statics
 Static database content manager for Mongoose.
 
